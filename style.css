@@ -1,0 +1,38 @@
+/* Genel ayarlar */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fafafa;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Başlık ve paragraf */
+header {
+    background-color: #0077cc;
+    color: white;
+    padding: 20px 10px;
+    text-align: center;
+}
+
+main {
+    padding: 20px 15px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1, h2 {
+    margin: 0 0 10px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 15px 10px;
+    background-color: #222;
+    color: #eee;
+    font-size: 0.9rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
